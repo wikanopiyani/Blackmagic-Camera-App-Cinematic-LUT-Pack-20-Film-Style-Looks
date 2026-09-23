@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_GUMROAD_LINK"><img src="https://img.shields.io/badge/Buy_on-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Buy on Gumroad"></a>
+  <a href="https://wikanopi.gumroad.com/l/blackmagic-camera-lut"><img src="https://img.shields.io/badge/Buy_on-Gumroad-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" alt="Buy on Gumroad"></a>
   &nbsp;
   <img src="https://img.shields.io/badge/LUTs-20-E8722A?style=for-the-badge" alt="20 LUTs">
   <img src="https://img.shields.io/badge/Format-.cube_33pt-222?style=for-the-badge" alt=".cube 33-point">
@@ -21,7 +21,7 @@
 
 ---
 
-## 👉 [Get the full pack on Gumroad](YOUR_GUMROAD_LINK)
+## 👉 [Get the full pack on Gumroad](https://wikanopi.gumroad.com/l/blackmagic-camera-lut)
 
 Every genre has a colour. This pack rebuilds 20 of the most recognisable Hollywood palettes as 3D LUTs made specifically for the free **Blackmagic Camera** app — so your phone footage looks like it came off a film set, live in the viewfinder, before you even press record.
 
@@ -91,7 +91,7 @@ Blackmagic Camera App (iOS & Android) · DaVinci Resolve · Premiere Pro · Fina
 ---
 
 <p align="center">
-  <a href="YOUR_GUMROAD_LINK"><img src="https://img.shields.io/badge/🛒_Buy_the_Cinematic_Collection-Gumroad-ff90e8?style=for-the-badge" alt="Buy on Gumroad"></a>
+  <a href="https://wikanopi.gumroad.com/l/blackmagic-camera-lut"><img src="https://img.shields.io/badge/🛒_Buy_the_Cinematic_Collection-Gumroad-ff90e8?style=for-the-badge" alt="Buy on Gumroad"></a>
 </p>
 
 <p align="center"><sub>Instant digital download · Lifetime access · Free updates</sub></p>
